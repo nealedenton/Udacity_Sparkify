@@ -9,6 +9,8 @@ Sparkify is an imagined music streamling platform, similar to Spotify.  The raw 
 
 The dataset has been provided by Udacity for use in the captstone project of their Data Science Nanodegree.  The full datasetis very large and would require powerful server hardware to run the EDA and model building.  For the purposes of this project a small sample data set has been used to make it possible to run it on lower spec hardware.  However, the aim is to use a methodology that could scale to a large dataset, so a key principle has been to rely on PySpark rather than pandas and sckikit learn.
 
+There is an accompanying blog post which discusses the project on medium here: https://medium.com/@nealedenton_87598/predicting-customer-churn-ee3b3a0bb370 
+
 ## Files Required
 * Sparkify.ipynb : The notebook with the analysis
 * README.md: This file
