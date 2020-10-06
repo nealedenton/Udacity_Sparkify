@@ -39,7 +39,6 @@ Python Packages
 4. Feature engineering: aggregate by userId and create relevant features
 5. Modelling
     1. Split data into training and test set
-    1. Logistic Regression with basic parameters
     2. Logistic Regression with grid search to fine tune parameters with Cross Folds Validation
     3. Decision Tree Classification with grid search to fine tune parameters with Cross Folds Validation
 6. Evaluation and Conclusion
