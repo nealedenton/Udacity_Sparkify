@@ -33,7 +33,7 @@ Python Packages
 
 ## Analysis
 
-1. Import the necessary lirbaries
+1. Import the necessary libraries
 2. Import sample data set
 3. Perform some initial Exploratory Data Analysis including:
     1. Identifying the 'label' we want our model to predict ('Cancellation Confirmation')
@@ -49,7 +49,9 @@ Python Packages
 ### References and Acknowledments
 
 Many of the techniques I used in this project were new to me, particularly the use of PySpark.  I was introduced to these techniques in the extra curricular content of the Udacity Nanodegree program.
-[Udaciy Nanodegree](https://www.udacity.com/course/data-scientist-nanodegree--nd025/ "Udaciy Nanodegree")
+
+[Udaciy Nanodegree](https://www.udacity.com/course/data-scientist-nanodegree--nd025/ "Udacity Nanodegree")
 
 The PySpark documentation was also very helpful
+
 [PySpark 2.4.3 Docs](https://spark.apache.org/docs/2.4.3/ "PySpark 2.4.3 Docs")
