@@ -5,9 +5,9 @@ Udacity Data Science Nanodegree capstone project
 ## Problem Statement
 
 The aim of the project is to build a machine learning model to predict whether customer's of 'Sparkify' will 'churn' - i.e. they will cancel their account.
-Sparkify is an imagined music streamling platform, similar to Spotify.  The raw data consists of web hits to the sparkify platform, including things like page name, timestamp and userId.
+Sparkify is an imagined music streaming platform, similar to Spotify.  The raw data consists of web hits to the sparkify platform, including things like page name, timestamp and userId.
 
-The dataset has been provided by Udacity for use in the captstone project of their Data Science Nanodegree.  The full datasetis very large and would require powerful server hardware to run the EDA and model building.  For the purposes of this project a small sample data set has been used to make it possible to run it on lower spec hardware.  However, the aim is to use a methodology that could scale to a large dataset, so a key principle has been to rely on PySpark rather than pandas and sckikit learn.
+The dataset has been provided by Udacity for use in the captstone project of their Data Science Nanodegree.  The full datasetis very large and would require powerful server hardware to run the EDA and model building.  For the purposes of this project a small sample data set has been used to make it possible to run it on lower spec hardware.  However, the aim is to use a methodology that could scale to a large dataset, so a key principle has been to rely on PySpark rather than pandas and scikit learn.
 
 There is an accompanying blog post which discusses the project on medium here: https://medium.com/@nealedenton_87598/predicting-customer-churn-ee3b3a0bb370 
 
@@ -46,7 +46,7 @@ Python Packages
 6. Evaluation and Conclusion
 
 
-### References and Acknowledments
+### References and Acknowledgements
 
 Many of the techniques I used in this project were new to me, particularly the use of PySpark.  I was introduced to these techniques in the extra curricular content of the Udacity Nanodegree program.
 
