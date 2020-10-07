@@ -45,3 +45,11 @@ Python Packages
     3. Decision Tree Classification with grid search to fine tune parameters with Cross Folds Validation
 6. Evaluation and Conclusion
 
+
+### References and Acknowledments
+
+Many of the techniques I used in this project were new to me, particularly the use of PySpark.  I was introduced to these techniques in the extra curricular content of the Udacity Nanodegree program.
+[Udaciy Nanodegree](https://www.udacity.com/course/data-scientist-nanodegree--nd025/ "Udaciy Nanodegree")
+
+The PySpark documentation was also very helpful
+[PySpark 2.4.3 Docs](https://spark.apache.org/docs/2.4.3/ "PySpark 2.4.3 Docs")
